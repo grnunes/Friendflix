@@ -1,0 +1,2 @@
+# FriendFlix
+Projeto Friendflix Trainee
