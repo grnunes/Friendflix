@@ -55,4 +55,19 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   color: #e600e6;
+  height: 100%;
+}
+
+@media (max-width:600px) {
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+
+  }
+  .todas{
+    margin-top: 2vh;
+  }
 }
